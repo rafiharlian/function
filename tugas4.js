@@ -3,7 +3,7 @@ function processSentence(name, age, address, hobby){
 
 }
 
-var name = "Agus";
+var name = "kipli";
 var age = 30;
 var address = "Jln. Malioboro, Yogjakarta";
 var hobby = "gaming";
