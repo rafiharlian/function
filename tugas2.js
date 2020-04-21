@@ -1,4 +1,5 @@
 function shoutOut() {
-    console.log('Halo function!')
+    let halo = 'Halo function!'
+    return halo
 }
     console.log(shoutOut())

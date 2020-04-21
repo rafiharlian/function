@@ -3,10 +3,10 @@ function processSentence(name, age, address, hobby){
 
 }
 
-var name = "kipli";
-var age = 30;
-var address = "Jln. Malioboro, Yogjakarta";
-var hobby = "gaming";
+let name = "kipli";
+let age = 30;
+let address = "Jln. Malioboro, Yogjakarta";
+let hobby = "gaming";
 
-var fullSentence = processSentence(name,age,address,hobby);
+let fullSentence = processSentence(name,age,address,hobby);
 console.log(fullSentence); // Menampilkan "Nama saya Agus, umur saya 30 tahun, alamat saya di Jln. Malioboro, Yogjakarta, dan saya 
